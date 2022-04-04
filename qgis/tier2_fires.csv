@@ -1,0 +1,630 @@
+field_1,utility_name,date,time,latitude,longitude,material_at_origin,size,type,suspected_initiating_event,highlight,year
+"3",SCE,2020/08/09 00:00:00,8:53,33.9348,-116.994,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"4",SDG&E,2020/08/01 00:00:00,11:11,32.631,-116.174,Vegetation,.26 - 9.99 Acres,Overhead Yes,Equipment/Facility Failure,False,2020
+"6",SDG&E,2015/09/01 00:00:00,8:50,32.669,-116.286,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2015
+"15",SCE,2020/08/03 00:00:00,10:33,34.0758,-116.555,Other,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"22",SDG&E,2016/06/27 00:00:00,15:30,33.283735,-116.617411,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2016
+"27",SDG&E,2015/08/13 00:00:00,20:33,33.24571,-116.6769,,< 0.25 Acres,Overhead,Unknown,False,2015
+"47",SDG&E,2014/09/24 00:00:00,19:45,33.0513,-116.8479,,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"49",SDG&E,2020/09/04 00:00:00,20:30,33.065821,-116.859217,Vegetation,< 0.25 Acres,Overhead Yes,,False,2020
+"51",SDG&E,2016/10/21 00:00:00,11:20,33.0485,-116.8615,,< 0.25 Acres,Overhead,Unknown,False,2016
+"52",SDG&E,2020/06/02 00:00:00,18:00,33.07,-116.863,Vegetation,< 0.25 Acres,Overhead Yes,,False,2020
+"53",SDG&E,2015/04/12 00:00:00,12:31,33.0117,-116.866,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"55",SDG&E,2017/07/28 00:00:00,16:31,32.780183,-116.872249,,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"57",SDG&E,2016/07/02 00:00:00,7:51,32.81,-116.878,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2016
+"58",SDG&E,2014/11/19 00:00:00,9:30,32.8421,-116.8805,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"60",SDG&E,,15:05,33.027,-116.889,Vegetation,< 0.25 Acres,Overhead No,Equipment/Facility Failure,False,
+"63",SDG&E,2014/05/01 00:00:00,6:48,32.864,-116.899,,.26 - 9.99 Acres,Overhead,Contact Between Third Party Facility on Pole and Supply Lines,False,2014
+"64",SDG&E,2015/07/13 00:00:00,23:45,32.76297,-116.89949,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"66",SDG&E,2016/06/14 00:00:00,6:05,32.880146,-116.905098,,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"69",SDG&E,2014/07/06 00:00:00,11:14,33.0283,-116.926,,< 0.25 Acres,Overhead,,False,2014
+"72",SDG&E,2016/11/12 00:00:00,20:30,32.6258333,-116.9375,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2016
+"74",SDG&E,2015/02/11 00:00:00,15:30,32.8941,-116.9393,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"76",SDG&E,2015/10/08 00:00:00,13:47,32.5818,-116.9449,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2015
+"88",SDG&E,2017/09/27 00:00:00,14:28,33.232655,-116.9748,,.26 - 9.99 Acres,Overhead,Unknown,False,2017
+"93",SDG&E,2020/09/12 00:00:00,5:30,33.105555,-117.00022,Vegetation,< 0.25 Acres,Overhead Yes,5:30 Equipment/Facility Failure,False,2020
+"94",SDG&E,2015/04/13 00:00:00,10:50,32.5859,-117.0017,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"95",SDG&E,2020/08/31 00:00:00,14:05,33.109,-117.005544,Vegetation,.26 - 9.99 Acres,Overhead Yes,,False,2020
+"98",SDG&E,2015/02/07 00:00:00,13:36,32.9021,-117.0137,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"100",SDG&E,2015/03/19 00:00:00,23:50,33.032378,-117.0159,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"101",SDG&E,2014/04/29 00:00:00,13:40,33.1264,-117.016,,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"103",SDG&E,2020/09/06 00:00:00,23:00,33.096484,-117.023704,Vegetation,< 0.25 Acres,Overhead Yes,23:00 Equipment/Facility Failure,False,2020
+"104",SDG&E,2020/06/03 00:00:00,11:17,33.1234,-117.025,Vegetation,< 0.25 Acres,Overhead Yes,,False,2020
+"106",SDG&E,2020/05/17 00:00:00,8:52,33.23734,-117.030142,Vegetation,< 0.25 Acres,Overhead Yes,8:52 Contact From Object,False,2020
+"126",SDG&E,2016/10/08 00:00:00,10:53,33.301856,-117.097422,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"131",SDG&E,2014/03/05 00:00:00,9:49,33.2038,-117.1142,,.26 - 9.99 Acres,Overhead,Equipment/Facility Failure,False,2014
+"134",SDG&E,,9:10,33.104,-117.121,Vegetation,< 0.25 Acres,Overhead Yes,Equipment/Facility Failure,False,
+"136",SCE,2015/06/09 00:00:00,5:46,33.598572,-117.131068,Other,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"137",SDG&E,2014/09/11 00:00:00,11:56,33.2769,-117.1345,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2014
+"138",SDG&E,2017/10/22 00:00:00,10:22,33.099,-117.135,,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"143",SDG&E,2020/12/03 00:00:00,11:56,33.176,-117.1541,Vegetation,.26 - 9.99 Acres,Overhead Yes,Equipment/Facility Failure,False,2020
+"144",SDG&E,2016/01/31 00:00:00,15:00,33.3217,-117.156,,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2016
+"145",SDG&E,2014/09/02 00:00:00,11:15,33.15272,-117.16078,,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"147",SDG&E,2014/05/19 00:00:00,18:30,33.1073,-117.164,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"149",SDG&E,2014/10/07 00:00:00,13:38,33.03898,-117.1705,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"151",SDG&E,2016/07/11 00:00:00,10:27,33.27186,-117.182567,,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"152",SDG&E,2017/06/08 00:00:00,4:12,33.035644,-117.183891,,< 0.25 Acres,PadmounteYes,Contact From Object,False,2017
+"158",SDG&E,2016/07/31 00:00:00,13:43,33.3663,-117.2033,,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"160",SDG&E,2016/09/27 00:00:00,unknown,33.296658,-117.207941,,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"165",SDG&E,2014/04/29 00:00:00,10:05,33.3181,-117.222,,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"170",SCE,2015/07/08 00:00:00,12:19,33.779188,-117.243305,Other,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"172",SDG&E,2017/08/30 00:00:00,14:12,33.387516,-117.245943,,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"174",SCE,2020/03/06 00:00:00,17:05,34.0802,-117.254,Other,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2020
+"182",SCE,2014/07/31 00:00:00,16:00,33.7927568,-117.2831691,Other,< 0.25 Acres,Overhead,Unknown,False,2014
+"198",SCE,2020/06/24 00:00:00,16:53,34.147,-117.357,Vegetation,.26 - 9.99 Acres,Overhead,Other,False,2020
+"204",SDG&E,2016/04/16 00:00:00,Unknown,33.224331,-117.368271,,< 0.25 Acres,Overhead,Wind/Equipment/Facility Failure,False,2016
+"207",SCE,2020/06/20 00:00:00,14:54,34.033,-117.399,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2020
+"209",SDG&E,2017/09/26 00:00:00,6:37,33.298443,-117.419172,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"213",SDG&E,2015/10/31 00:00:00,,33.339167,-117.49475,,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"216",SDG&E,2020/06/26 00:00:00,5:50,33.353399,-117.516836,Vegetation,< 0.25 Acres,Overhead Yes,,False,2020
+"221",SDG&E,2020/01/29 00:00:00,19:00,33.41486,-117.581088,Vegetation,< 0.25 Acres,Overhead Yes,19:00 Equipment/Facility Failure,False,2020
+"224",SCE,2014/12/05 00:00:00,2:52,33.9397026,-117.6114641,,< 0.25 Acres,Overhead,Vandalism/Theft,False,2014
+"244",SCE,2014/12/27 00:00:00,8:17,34.0719543,-117.8389807,,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"254",SCE,2020/06/15 00:00:00,10:18,33.9476,-117.923,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"274",SCE,2020/06/09 00:00:00,9:25,34.1594,-118.029,Other,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2020
+"280",SCE,2020/09/06 00:00:00,15:05,34.1711,-118.055,Other,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2020
+"287",SCE,2020/05/01 00:00:00,21:25,34.5654,-118.116,Other,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"301",SCE,2020/08/18 00:00:00,16:00,34.2148,-118.197,Other,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"314",SCE,2020/06/11 00:00:00,8:15,33.7476,-118.38,Other,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"315",SCE,2020/06/11 00:00:00,8:15,33.7476,-118.381,Other,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"319",SCE,2020/06/14 00:00:00,16:25,34.7098,-118.416,Vegetation,< 0.25 Acres,Overhead,Equipment/Facility Failure,False,2020
+"330",SCE,2015/02/06 00:00:00,13:15,37.45396,-118.584196,,">5,000",Overhead,Unknown,False,2015
+"337",SCE,2020/07/05 00:00:00,12:00,35.8708,-118.641,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2020
+"347",SCE,2015/05/14 00:00:00,22:24,36.1318095,-118.778424,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"352",PG&E,2018/10/25 00:00:00,18:47,35.55662,-118.81679,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"389",SCE,2015/06/17 00:00:00,17:29,36.108562,-118.94253,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"393",SCE,2015/05/29 00:00:00,7:29,36.3869606,-118.9535553,,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"395",PG&E,2017/04/30 00:00:00,9:32,35.63491,-118.95629,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"400",PG&E,2017/10/08 00:00:00,22:54,35.552759,-118.968086,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"402",PG&E,2019/06/06 00:00:00,9:01,35.6384283,-118.9687333,Bird Found,.26 - 9.99 Acres,Overhead,Contact - Animal - Other,False,2019
+"403",PG&E,2018/02/26 00:00:00,16:33,35.530211,-118.969546,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"432",PG&E,2015/07/24 00:00:00,14:30,36.69127,-119.0311733,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"442",PG&E,2014/08/09 00:00:00,15:36,36.685177,-119.04496,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"452",PG&E,2015/08/17 00:00:00,20:57,36.68672,-119.06123,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"472",PG&E,2018/10/24 00:00:00,14:18,36.726478,-119.10859,Vegetation,10 - 99 Acres,Overhead,Vandalism/Theft,False,2018
+"482",PG&E,2019/11/11 00:00:00,6:52,36.68217,-119.18056,,< 0.25 Acres,Overhead,Contact - Animal - Bird,False,2019
+"504",PG&E,2019/06/27 00:00:00,2:23,36.819829,-119.333356,Bird Found,.26 - 9.99 Acres,Overhead,Equipment - PG&E,False,2019
+"513",PG&E,2016/08/25 00:00:00,12:04,36.9726283,-119.3816167,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"517",PG&E,2016/05/15 00:00:00,15:54,36.794789,-119.396585,Vegetation,100 - 299 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"524",PG&E,2016/08/02 00:00:00,16:15,37.0312383,-119.4395483,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"527",PG&E,2018/07/19 00:00:00,0:08,36.9372167,-119.4557033,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"536",PG&E,2019/07/18 00:00:00,19:57,37.0809833,-119.4865183,,.26 - 9.99 Acres,Overhead,Equipment - PG&E,False,2019
+"539",SCE,2014/06/27 00:00:00,11:06,34.608417,-119.500274,,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"541",PG&E,2019/07/23 00:00:00,16:55,37.21282,-119.504967,Gun Shot,< 0.25 Acres,Overhead,Contact - 3rd Party,False,2019
+"546",PG&E,2019/05/29 00:00:00,16:54,37.0371383,-119.5209233,Vegetation,10 - 99 Acres,Overhead,Vegetation,False,2019
+"551",PG&E,2017/04/29 00:00:00,15:07,37.0348633,-119.5242267,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"561",PG&E,2018/06/22 00:00:00,17:44,37.248459,-119.56251,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"573",PG&E,2017/07/19 00:00:00,5:52,37.090466,-119.604686,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"598",PG&E,2016/08/17 00:00:00,18:37,37.3077917,-119.6510517,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"607",PG&E,2018/06/19 00:00:00,14:41,37.21581,-119.681069,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"622",PG&E,2017/08/08 00:00:00,20:35,37.2636733,-119.7102733,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"635",PG&E,2015/08/13 00:00:00,3:46,37.207208,-119.734303,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"645",PG&E,2018/08/05 00:00:00,13:56,37.400545,-119.7532,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2018
+"657",PG&E,2015/07/16 00:00:00,19:11,37.198935,-119.7712317,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"678",PG&E,2019/08/05 00:00:00,22:38,37.1869,-119.7901783,,< 0.25 Acres,Overhead,Equipment - Overloaded,False,2019
+"687",PG&E,2014/07/20 00:00:00,12:23,37.676078,-119.796926,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"691",PG&E,2017/07/07 00:00:00,14:31,37.499,-119.799,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"698",PG&E,2016/07/28 00:00:00,12:58,37.2370567,-119.8157217,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"699",PG&E,2017/05/15 00:00:00,16:00,37.1766467,-119.8188733,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"712",PG&E,2017/09/03 00:00:00,17:52,37.4955883,-119.8366667,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"713",PG&E,2014/07/26 00:00:00,15:26,37.66550999,-119.84165,Vegetation,1000 - 4999 Acres,Overhead,Contact From Object,True,2014
+"715",PG&E,2016/08/13 00:00:00,14:31,37.464209,-119.858886,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"726",PG&E,2016/07/16 00:00:00,8:19,37.48278,-119.8699933,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"729",PG&E,2019/09/16 00:00:00,14:39,37.37624,-119.87289,Vegetation,10 - 99 Acres,Overhead,Vegetation,False,2019
+"733",PG&E,2015/05/06 00:00:00,17:17,37.42727,-119.8802767,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"735",PG&E,2014/07/01 00:00:00,9:45,37.42669,-119.88095,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"738",PG&E,2017/09/01 00:00:00,8:00,37.375669,-119.888615,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"743",PG&E,2018/09/05 00:00:00,16:55,37.4655433,-119.90052,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"754",PG&E,2014/08/05 00:00:00,16:13,37.56341,-119.9395,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"762",PG&E,2019/07/06 00:00:00,14:22,34.6387983,-119.9695367,,.26 - 9.99 Acres,Overhead,Equipment - PG&E,False,2019
+"767",PG&E,2019/04/09 00:00:00,14:07,34.631101,-119.981319,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"776",PG&E,2014/06/23 00:00:00,6:04,37.5046,-120.00742,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"782",PG&E,2017/06/08 00:00:00,15:08,34.6058,-120.0214,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"784",PG&E,2017/08/12 00:00:00,9:08,34.6689,-120.0286,Vegetation,< 0.25 Acres,Overhead,Vandalism/Theft,False,2017
+"791",PG&E,2016/06/12 00:00:00,13:14,37.5096033,-120.046225,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"795",PG&E,2014/07/31 00:00:00,22:08,38.53428,-120.05708,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"805",PG&E,2019/04/09 00:00:00,15:27,37.734051,-120.07761,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"806",PG&E,2019/11/04 00:00:00,23:32,34.6619,-120.0852,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"827",PG&E,2015/07/30 00:00:00,19:11,37.810242,-120.128715,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"831",PG&E,2014/08/19 00:00:00,21:05,37.816508,-120.132182,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"832",PG&E,2016/07/28 00:00:00,14:24,37.82318,-120.13562,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"833",PG&E,2016/07/28 00:00:00,8:12,37.820701,-120.138803,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"837",PG&E,2015/08/02 00:00:00,16:24,37.63172,-120.154709,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2015
+"838",PG&E,2017/12/07 00:00:00,12:25,34.711511,-120.177153,Vegetation,.26 - 9.99 Acres,Overhead,Unknown,False,2017
+"839",PG&E,2019/09/30 00:00:00,14:29,34.6139167,-120.179945,"Contact with High Voltage, 3rd party",.26 - 9.99 Acres,Overhead,Contact - 3rd Party,False,2019
+"840",PG&E,2014/09/14 00:00:00,14:47,37.69849,-120.18707,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"853",PG&E,2018/06/20 00:00:00,8:30,34.756112,-120.228108,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"854",PG&E,2015/08/04 00:00:00,17:57,37.587907,-120.228984,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"855",PG&E,2016/08/22 00:00:00,16:10,37.966561,-120.239501,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"857",PG&E,2015/09/06 00:00:00,19:27,34.619535,-120.2533933,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"865",PG&E,2014/08/12 00:00:00,15:38,38.77711,-120.26575,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"866",PG&E,2018/10/24 00:00:00,7:08,37.9475067,-120.26713,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"870",PG&E,2014/10/26 00:00:00,22:24,34.53516,-120.296617,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"876",PG&E,2018/08/22 00:00:00,17:24,37.951908,-120.310328,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"887",PG&E,2019/03/19 00:00:00,12:52,37.9956002,-120.3244065,"Tree - cutting, 3rd party",< 0.25 Acres,Overhead,Contact - 3rd Party,False,2019
+"888",PG&E,2019/07/27 00:00:00,16:17,37.7266,-120.32455,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"889",PG&E,2019/06/14 00:00:00,4:38,37.5524617,-120.3254367,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"890",PG&E,2018/09/27 00:00:00,3:40,37.547328,-120.325515,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"900",PG&E,2017/11/08 00:00:00,7:11,37.7366917,-120.3458717,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"901",PG&E,2014/08/11 00:00:00,9:23,37.91184,-120.34889,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"902",PG&E,2019/07/19 00:00:00,11:59,37.9162533,-120.3489583,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"905",PG&E,2017/12/14 00:00:00,17:16,34.5878283,-120.3566267,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"906",PG&E,2019/10/17 00:00:00,19:44,37.6494217,-120.357015,,.26 - 9.99 Acres,Overhead,Contact - Animal - Bird,False,2019
+"907",PG&E,2015/11/09 00:00:00,5:55,34.99841,-120.3634,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"911",PG&E,2017/09/08 00:00:00,21:14,37.96038,-120.37636,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"913",PG&E,2016/07/03 00:00:00,15:00,38.034827,-120.380877,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"914",PG&E,2016/07/12 00:00:00,14:18,35.3471,-120.3813,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"916",PG&E,2017/07/29 00:00:00,13:28,35.452291,-120.383443,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"920",PG&E,2014/08/23 00:00:00,8:36,37.98626,-120.391829,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"922",PG&E,2017/11/11 00:00:00,11:57,35.119078,-120.393642,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"923",PG&E,2018/06/21 00:00:00,18:58,35.122375,-120.393769,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2018
+"926",PG&E,2016/06/12 00:00:00,10:22,38.04910999,-120.39761,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"928",PG&E,2016/06/30 00:00:00,14:20,37.992675,-120.399617,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"929",PG&E,2016/05/19 00:00:00,1:42,34.6645017,-120.3999933,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"933",PG&E,2014/10/08 00:00:00,14:21,34.645516,-120.411833,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"942",PG&E,2015/06/27 00:00:00,12:48,37.947387,-120.427404,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"945",PG&E,2018/06/13 00:00:00,11:18,35.292701,-120.428966,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"947",PG&E,2019/07/13 00:00:00,13:13,34.7273,-120.4357,,.26 - 9.99 Acres,Overhead,Equipment - PG&E,False,2019
+"949",PG&E,2020/11/02 00:00:00,12:15,34.68175,-120.4364967,Vegetation,< 0.25 Acres,Overhead,Equipment - PG&E,False,2020
+"953",PG&E,2015/06/27 00:00:00,18:51,37.991127,-120.438024,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"956",PG&E,2016/08/15 00:00:00,15:43,37.8784317,-120.448835,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"960",PG&E,2015/06/05 00:00:00,14:40,37.95776999,-120.451909,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"963",PG&E,2015/09/18 00:00:00,17:05,37.8992,-120.455079,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"965",PG&E,2019/11/11 00:00:00,9:46,37.8782417,-120.4595883,Vehicle,< 0.25 Acres,Overhead,Contact - 3rd Party,False,2019
+"966",PG&E,2014/07/22 00:00:00,20:09,37.951628,-120.459719,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"968",PG&E,2016/11/14 00:00:00,13:15,35.45772,-120.46186,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"970",PG&E,2019/07/27 00:00:00,4:51,37.948607,-120.46557,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"976",PG&E,2015/07/30 00:00:00,17:56,37.90209,-120.47386,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"981",PG&E,2017/09/18 00:00:00,23:50,37.9087933,-120.4865183,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"982",PG&E,2019/10/08 00:00:00,17:59,35.297885,-120.48683,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"984",PG&E,2018/06/04 00:00:00,9:25,35.45929,-120.492119,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"985",PG&E,2015/08/14 00:00:00,17:44,37.889433,-120.493341,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"991",PG&E,2017/06/10 00:00:00,7:37,35.4359,-120.4957,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"992",PG&E,2019/11/10 00:00:00,9:47,35.0787083,-120.4974467,,< 0.25 Acres,Overhead,Contact - Animal - Bird,False,2019
+"993",PG&E,2018/08/07 00:00:00,10:19,38.10522,-120.49777,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"996",PG&E,2016/07/15 00:00:00,5:19,35.1839,-120.5018,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1003",PG&E,2019/05/24 00:00:00,15:03,35.16961,-120.510321,,.26 - 9.99 Acres,Overhead,Equipment - PG&E,False,2019
+"1005",PG&E,2016/07/27 00:00:00,11:53,37.864924,-120.513392,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"1008",PG&E,2018/06/09 00:00:00,0:46,35.074482,-120.516696,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1010",PG&E,2019/12/18 00:00:00,5:25,38.2816883,-120.51701,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1012",PG&E,2015/12/08 00:00:00,12:41,38.248863,-120.522837,Other,Structure Only,Overhead,Contact From Object,True,2015
+"1021",PG&E,2017/10/09 00:00:00,0:00,38.4023,-120.53,Vegetation,100 - 299 Acres,Overhead,Vegetation,False,2017
+"1022",PG&E,2017/10/20 00:00:00,13:45,34.55317,-120.530293,Vegetation,100 - 299 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1027",PG&E,2015/07/07 00:00:00,15:27,35.154962,-120.544197,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1029",PG&E,2017/07/20 00:00:00,13:45,35.08036,-120.55383,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1030",PG&E,2015/08/30 00:00:00,17:05,38.4039,-120.5559,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1031",PG&E,2017/07/18 00:00:00,11:30,38.048432,-120.556529,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1034",PG&E,2015/07/31 00:00:00,22:45,38.38045,-120.56283,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1040",PG&E,2014/08/14 00:00:00,10:46,38.012395,-120.586052,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1043",PG&E,2014/10/07 00:00:00,11:35,35.072023,-120.590516,Vegetation,< 0.25 Acres,Subsurface,Contact From Object,False,2014
+"1044",PG&E,2014/07/08 00:00:00,22:39,39.0437,-120.59052,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1045",PG&E,2018/06/08 00:00:00,19:03,35.153965,-120.594033,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1047",PG&E,2016/10/23 00:00:00,18:10,38.02104,-120.599098,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1050",PG&E,2018/10/21 00:00:00,0:32,35.503484,-120.602521,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1051",PG&E,2016/08/03 00:00:00,12:41,39.326948,-120.603277,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1053",PG&E,2014/06/16 00:00:00,15:37,38.16816999,-120.607469,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1065",PG&E,2015/06/27 00:00:00,22:28,38.119436,-120.621793,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2015
+"1072",PG&E,2020/10/22 00:00:00,9:02,39.56865267,-120.6277376,Vegetation,< 0.25 Acres,Overhead,Equipment - PG&E,False,2020
+"1076",PG&E,2020/12/07 00:00:00,11:52,35.153562,-120.631685,Vegetation,.26 - 9.99 Acres,Overhead,Weather,False,2020
+"1082",PG&E,2018/09/16 00:00:00,8:26,35.304598,-120.638911,Vegetation,10 - 99 Acres,Overhead,Vandalism/Theft,False,2018
+"1093",PG&E,2015/08/16 00:00:00,7:35,35.457237,-120.656741,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1097",PG&E,2019/07/11 00:00:00,15:27,39.5656783,-120.6614367,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1098",PG&E,2016/06/10 00:00:00,15:57,38.17922,-120.66569,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"1099",PG&E,2016/05/24 00:00:00,12:36,38.08113999,-120.66798,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1103",PG&E,2019/07/18 00:00:00,10:27,38.3032767,-120.6717767,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1105",PG&E,2015/09/12 00:00:00,11:09,38.6030383,-120.67409,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1106",PG&E,2015/04/27 00:00:00,12:54,35.487094,-120.67561,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1111",PG&E,2014/11/07 00:00:00,6:12,35.31694999,-120.679609,Vegetation,< 0.25 Acres,Overhead,Wire-Wire Contact,False,2014
+"1112",PG&E,2019/08/01 00:00:00,13:28,38.57212,-120.68026,"Equipment Failure/Involved, Overhead",< 0.25 Acres,Overhead,Contact - 3rd Party,False,2019
+"1116",PG&E,2015/09/30 00:00:00,17:25,38.574692,-120.682033,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1121",PG&E,2014/07/30 00:00:00,17:35,38.648293,-120.693086,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1123",PG&E,2016/06/03 00:00:00,12:16,38.64354,-120.69588,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1125",PG&E,2018/09/14 00:00:00,15:08,35.327996,-120.698197,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1130",PG&E,2018/06/19 00:00:00,10:17,38.591829,-120.709654,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1131",PG&E,2017/07/24 00:00:00,19:31,38.35192,-120.71029,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1132",PG&E,2016/07/25 00:00:00,15:32,38.3522,-120.71065,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"1137",PG&E,2017/06/22 00:00:00,18:07,38.75831,-120.71764,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1138",PG&E,2015/10/30 00:00:00,17:13,38.3166117,-120.7226483,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1146",PG&E,2015/07/05 00:00:00,9:42,35.53229999,-120.73706,Vegetation,< 0.25 Acres,Overhead,Wire-Wire Contact,False,2015
+"1149",PG&E,2019/08/12 00:00:00,17:42,38.6618317,-120.7451217,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1150",PG&E,2015/03/09 00:00:00,9:36,38.73283,-120.75239,Building,Structure Only,Overhead,Contact From Object,True,2015
+"1157",PG&E,2016/06/15 00:00:00,13:09,38.4433,-120.75676,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1160",PG&E,2017/06/24 00:00:00,14:51,38.36218,-120.76381,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1161",PG&E,2017/04/04 00:00:00,13:29,35.68851,-120.76533,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1162",PG&E,2015/09/25 00:00:00,17:28,38.716862,-120.769341,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1168",PG&E,2018/07/21 00:00:00,0:23,38.6927,-120.79211,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1174",PG&E,2019/09/15 00:00:00,12:38,38.119395,-120.8013433,Vehicle,.26 - 9.99 Acres,Overhead,Contact - 3rd Party,False,2019
+"1175",PG&E,2018/06/05 00:00:00,16:46,38.72446,-120.802,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1179",PG&E,2019/05/30 00:00:00,8:18,35.7005167,-120.8103817,Vehicle,.26 - 9.99 Acres,Overhead,Contact - 3rd Party,False,2019
+"1182",PG&E,2015/05/30 00:00:00,12:52,38.7371312,-120.8122124,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1189",PG&E,2018/06/19 00:00:00,0:27,38.760416,-120.822368,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1190",PG&E,2014/12/14 00:00:00,4:52,38.42004999,-120.823689,Other,Structure Only,Overhead,Equipment/ Facility Failure,False,2014
+"1193",PG&E,2019/07/26 00:00:00,12:03,38.800266,-120.825847,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1196",PG&E,,0:03,35.30789,-120.832809,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,
+"1198",PG&E,2019/07/01 00:00:00,2:15,38.2954983,-120.833485,,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1201",PG&E,2017/11/20 00:00:00,8:32,38.75835,-120.84385,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1204",PG&E,2019/06/10 00:00:00,16:34,38.8209533,-120.8459533,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1207",PG&E,2017/06/24 00:00:00,22:27,38.29083,-120.849,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2017
+"1214",PG&E,2015/08/22 00:00:00,20:38,38.7747567,-120.8563517,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1217",PG&E,2017/08/31 00:00:00,6:42,35.615986,-120.857702,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1219",PG&E,2017/09/08 00:00:00,4:47,38.74778,-120.85905,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1226",PG&E,2017/08/05 00:00:00,8:33,38.4583467,-120.86954,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1234",PG&E,2015/10/31 00:00:00,7:45,38.115668,-120.89308,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1236",PG&E,2017/05/15 00:00:00,3:05,35.6261,-120.89616,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1237",PG&E,2018/03/06 00:00:00,17:57,38.281097,-120.896496,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1239",PG&E,2018/11/16 00:00:00,17:02,38.757426,-120.901154,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1241",PG&E,2016/04/30 00:00:00,17:59,38.3142,-120.90148,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1242",PG&E,2014/09/23 00:00:00,10:53,38.81503,-120.90241,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1247",PG&E,2016/07/31 00:00:00,12:11,38.7827117,-120.91682,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"1248",PG&E,2018/08/07 00:00:00,21:03,38.212933,-120.918357,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1249",PG&E,2017/10/02 00:00:00,14:56,38.91023,-120.91853,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1251",PG&E,2017/07/24 00:00:00,21:45,35.602428,-120.921065,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2017
+"1253",PG&E,2019/06/18 00:00:00,19:49,35.887625,-120.9216733,Bird Found,.26 - 9.99 Acres,Overhead,Contact - Animal - Bird,False,2019
+"1254",PG&E,2017/07/16 00:00:00,12:10,35.66129,-120.922,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1258",PG&E,2018/05/11 00:00:00,17:43,38.821832,-120.929533,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1265",PG&E,2018/07/21 00:00:00,14:51,35.68459594,-120.9427306,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2018
+"1267",PG&E,2019/06/10 00:00:00,13:29,38.8137133,-120.9432767,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1268",PG&E,2017/07/03 00:00:00,20:26,38.79229,-120.94384,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1272",PG&E,2018/09/06 00:00:00,16:19,39.090397,-120.946365,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1275",PG&E,2016/08/09 00:00:00,19:21,38.91866999,-120.95246,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1277",PG&E,2015/07/03 00:00:00,3:23,35.6785,-120.9567,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1280",PG&E,2015/06/08 00:00:00,14:18,38.179556,-120.958991,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2015
+"1283",PG&E,2017/04/28 00:00:00,15:49,38.76786,-120.9625333,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1284",PG&E,2019/07/22 00:00:00,8:11,38.7686583,-120.9632533,Bird Found,< 0.25 Acres,Overhead,Contact - Animal - Bird,False,2019
+"1285",PG&E,2017/10/02 00:00:00,0:55,35.7319,-120.965,Building,.26 - 9.99 Acres,Overhead,Vegetation,False,2017
+"1286",PG&E,2015/12/03 00:00:00,12:10,40.02767,-120.96522,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1287",PG&E,2018/08/22 00:00:00,21:56,39.042513,-120.969456,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1289",PG&E,2016/10/09 00:00:00,18:52,38.656016,-120.972515,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1290",PG&E,2016/05/31 00:00:00,4:02,35.79836999,-120.97432,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1292",PG&E,2019/07/25 00:00:00,0:15,39.066214,-120.975391,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1295",PG&E,2017/04/25 00:00:00,12:38,38.658316,-120.976216,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1296",PG&E,2018/07/17 00:00:00,11:11,35.698572,-120.977693,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2018
+"1297",PG&E,2019/09/11 00:00:00,21:03,38.31325,-120.9808517,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1300",PG&E,2017/08/30 00:00:00,22:37,38.99933,-120.988714,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1302",PG&E,2017/07/28 00:00:00,19:20,35.727562,-120.990297,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1304",PG&E,2015/12/01 00:00:00,12:03,35.67436,-120.99322,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1307",PG&E,2019/07/21 00:00:00,10:14,38.97161,-120.99908,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1308",PG&E,2019/08/11 00:00:00,1:19,39.115175,-121.001035,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1312",PG&E,2015/04/18 00:00:00,3:07,38.68575999,-121.00839,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1314",PG&E,2019/09/01 00:00:00,16:50,35.9080033,-121.010985,,10 - 99 Acres,Overhead,Equipment - PG&E,False,2019
+"1321",PG&E,2018/08/24 00:00:00,5:03,39.1183867,-121.015445,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1333",PG&E,2014/06/23 00:00:00,17:45,39.064024,-121.022486,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"1334",PG&E,2018/08/07 00:00:00,9:47,38.655605,-121.0225933,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2018
+"1335",PG&E,2017/09/17 00:00:00,17:38,38.994585,-121.026073,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1340",PG&E,2015/09/21 00:00:00,4:06,38.65867,-121.0403533,Vegetation,< 0.25 Acres,Overhead,Wire-Wire Contact,False,2015
+"1341",PG&E,2015/07/04 00:00:00,1:14,38.9566,-121.043359,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1350",PG&E,2018/03/03 00:00:00,12:15,39.121276,-121.055036,Building,Structure Only,Overhead,Contact From Object,True,2018
+"1354",PG&E,2014/07/27 00:00:00,16:30,35.572014,-121.057898,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1358",PG&E,2019/05/29 00:00:00,20:25,39.0194383,-121.0607683,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1361",PG&E,2018/08/10 00:00:00,20:18,39.20932,-121.06149,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1363",PG&E,2015/07/26 00:00:00,12:25,39.15861,-121.06344,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1364",PG&E,2015/07/08 00:00:00,11:23,39.223969,-121.063495,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1366",PG&E,2015/07/07 00:00:00,10:42,39.113769,-121.065501,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1367",PG&E,2015/06/22 00:00:00,11:58,39.173729,-121.06674,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1370",PG&E,2015/09/12 00:00:00,9:51,39.116441,-121.069298,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1371",PG&E,2016/09/21 00:00:00,10:01,39.11731999,-121.07105,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1373",PG&E,2019/07/30 00:00:00,15:15,39.1206667,-121.0720067,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1379",PG&E,2018/06/30 00:00:00,22:36,39.114133,-121.077044,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"1380",PG&E,2014/09/09 00:00:00,9:54,39.15305999,-121.07706,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1385",PG&E,2017/10/08 00:00:00,0:00,39.1932,-121.084,Vegetation,1000 - 4999 Acres,Overhead,Vegetation,False,2017
+"1387",PG&E,2017/08/03 00:00:00,10:53,39.07320119,-121.0867949,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1396",PG&E,2017/10/16 00:00:00,12:26,36.6641,-121.099469,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1397",PG&E,2016/04/08 00:00:00,13:14,39.0429267,-121.1002033,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1399",PG&E,2019/07/22 00:00:00,21:39,38.8618317,-121.1044067,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1406",PG&E,2016/06/06 00:00:00,19:48,38.9128533,-121.1192483,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1407",PG&E,2017/05/24 00:00:00,16:24,38.83403752,-121.1196503,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1410",PG&E,2019/10/28 00:00:00,13:00,39.320785,-121.1272583,Vegetation,< 0.25 Acres,Overbuild,Vegetation,False,2019
+"1411",PG&E,2016/08/01 00:00:00,12:50,38.90442999,-121.12742,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"1412",PG&E,2017/10/09 00:00:00,0:20,39.2455,-121.128,Vegetation,300 - 999 Acres,Overhead,Vegetation,False,2017
+"1414",PG&E,2017/07/31 00:00:00,14:41,38.796747,-121.132883,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1417",PG&E,2014/07/04 00:00:00,1:40,39.333723,-121.139138,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1420",PG&E,2015/08/31 00:00:00,14:28,36.53251,-121.1462,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1421",PG&E,2019/09/27 00:00:00,10:30,36.53362,-121.146397,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1422",PG&E,2015/08/28 00:00:00,11:48,38.8513017,-121.1468683,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2015
+"1424",PG&E,2017/08/27 00:00:00,20:04,38.916537,-121.151004,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1426",PG&E,2015/08/04 00:00:00,16:05,40.08216,-121.15383,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1427",PG&E,2015/06/12 00:00:00,23:32,39.230765,-121.15594,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1433",PG&E,2019/09/13 00:00:00,8:53,39.075366,-121.171685,Bird Found,.26 - 9.99 Acres,Overhead,Contact - Animal - Bird,False,2019
+"1434",PG&E,2014/07/24 00:00:00,19:28,39.045003,-121.172794,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"1440",PG&E,2015/08/03 00:00:00,17:53,39.336103,-121.189393,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2015
+"1442",PG&E,2018/07/14 00:00:00,12:56,39.2093117,-121.19695,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1455",PG&E,2016/08/13 00:00:00,14:00,39.20091999,-121.213,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1457",PG&E,2015/08/08 00:00:00,7:42,39.20065999,-121.21365,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1464",PG&E,2017/07/05 00:00:00,11:58,39.21046,-121.22662,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1472",PG&E,2017/06/15 00:00:00,7:39,39.2275584,-121.2347602,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1477",PG&E,2017/12/20 00:00:00,14:03,35.664599,-121.244,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1478",PG&E,2015/09/24 00:00:00,13:56,39.350775,-121.24544,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1481",PG&E,2018/07/14 00:00:00,14:44,38.952424,-121.24673,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1482",PG&E,2015/05/09 00:00:00,13:10,39.23429,-121.246825,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1487",PG&E,2019/09/22 00:00:00,11:34,36.026436,-121.250775,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1498",PG&E,2018/08/24 00:00:00,1:38,39.20293,-121.2766,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1507",PG&E,2016/06/21 00:00:00,10:09,39.02942,-121.29275,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1512",PG&E,2014/07/11 00:00:00,1:42,39.212134,-121.297765,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"1515",PG&E,2014/08/05 00:00:00,12:03,39.215499,-121.302929,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"1529",PG&E,2019/08/16 00:00:00,10:31,39.371425,-121.3221283,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1538",PG&E,2014/09/23 00:00:00,10:05,39.110385,-121.333828,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"1540",PG&E,2017/10/08 00:00:00,0:00,39.3638,-121.336,Vegetation,">5,000",Overhead,Wire-Wire Contact,False,2017
+"1555",PG&E,2017/10/08 00:00:00,0:20,39.4145,-121.361,Vegetation,">5,000",Overhead,Equipment - PG&E,False,2017
+"1558",PG&E,2015/08/26 00:00:00,23:49,36.3897183,-121.3652833,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1561",PG&E,2017/05/29 00:00:00,18:29,39.224513,-121.375252,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1562",PG&E,2014/09/19 00:00:00,8:44,39.262,-121.37707,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1563",PG&E,2015/10/04 00:00:00,1:32,39.22788,-121.37735,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1565",PG&E,2015/07/01 00:00:00,12:57,39.414633,-121.37899,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2015
+"1568",PG&E,2014/07/30 00:00:00,10:42,39.328624,-121.383645,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1572",PG&E,2016/06/11 00:00:00,19:45,39.3265417,-121.3921333,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"1577",PG&E,2017/09/18 00:00:00,13:01,39.388851,-121.405381,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1594",PG&E,2018/11/08 00:00:00,6:15,39.8134,-121.435,Vegetation,">5,000",Overhead,Equipment - PG&E,False,2018
+"1598",PG&E,2019/08/13 00:00:00,10:30,36.610163,-121.445157,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1600",PG&E,2016/06/26 00:00:00,16:38,39.50417,-121.447525,Vegetation,< 0.25 Acres,Overhead,Wire-Wire Contact,False,2016
+"1629",PG&E,2018/09/03 00:00:00,18:29,39.4547317,-121.4954567,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2018
+"1637",PG&E,2014/06/20 00:00:00,14:15,40.78022999,-121.50287,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1640",PG&E,2016/02/08 00:00:00,3:55,39.7852,-121.5056,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1643",PG&E,2018/07/01 00:00:00,8:13,39.4153867,-121.5122183,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"1658",PG&E,2017/10/08 00:00:00,0:45,39.6235,-121.528,Vegetation,">5,000",Overhead,Vegetation,False,2017
+"1663",PG&E,2017/07/15 00:00:00,14:34,39.62313,-121.53281,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1672",PG&E,2016/10/14 00:00:00,19:44,39.62445999,-121.538219,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1694",PG&E,2014/09/17 00:00:00,8:36,36.83119,-121.55824,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1703",PG&E,2019/04/28 00:00:00,12:36,39.675642,-121.567688,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1725",PG&E,2018/09/01 00:00:00,14:25,36.80878,-121.591565,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2018
+"1747",PG&E,2014/07/08 00:00:00,12:34,36.3905,-121.61475,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"1754",PG&E,2015/06/03 00:00:00,9:33,39.68957,-121.621612,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1764",PG&E,2014/08/05 00:00:00,14:50,37.34196999,-121.63199,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1765",PG&E,2017/08/08 00:00:00,11:27,37.04448071,-121.6343141,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1786",PG&E,2016/11/15 00:00:00,17:27,39.72746999,-121.655709,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1808",PG&E,2014/07/22 00:00:00,14:53,37.06857999,-121.66955,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2014
+"1811",PG&E,2018/07/17 00:00:00,11:58,37.22171,-121.67779,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1818",PG&E,2016/10/14 00:00:00,4:32,40.52281999,-121.68134,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1819",PG&E,2019/04/20 00:00:00,6:57,37.86856,-121.684274,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1852",PG&E,2016/08/24 00:00:00,12:11,36.46334999,-121.712019,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1854",PG&E,2017/08/06 00:00:00,11:38,36.585735,-121.712125,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1855",PG&E,2018/08/08 00:00:00,16:02,36.47034,-121.714289,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"1866",PG&E,2017/09/01 00:00:00,17:48,36.6518,-121.7249,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"1870",PG&E,2019/06/13 00:00:00,0:30,36.5758717,-121.72838,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1876",PG&E,2019/08/06 00:00:00,15:47,36.571758,-121.73637,Vehicle,< 0.25 Acres,Overhead,Contact - 3rd Party,False,2019
+"1887",PG&E,2017/07/16 00:00:00,11:59,36.6669167,-121.751475,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1888",PG&E,2015/06/30 00:00:00,18:18,36.21991,-121.75343,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1893",PG&E,2015/06/15 00:00:00,15:35,37.18517999,-121.7595,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"1896",PG&E,2019/11/03 00:00:00,18:26,36.232285,-121.7621883,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"1899",PG&E,2014/10/14 00:00:00,11:04,37.901341,-121.76466,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"1904",PG&E,2018/09/23 00:00:00,15:57,37.33503253,-121.7678711,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1910",PG&E,2019/09/13 00:00:00,6:30,37.334805,-121.7715733,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1920",PG&E,2015/08/14 00:00:00,15:09,40.982866,-121.780158,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"1941",PG&E,2018/06/16 00:00:00,19:58,37.906962,-121.806323,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"1945",PG&E,2016/07/20 00:00:00,19:15,37.77120999,-121.81041,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"1956",PG&E,2019/05/31 00:00:00,15:25,40.443067,-121.821082,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"1965",PG&E,2019/09/26 00:00:00,14:12,36.9517133,-121.8277917,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"1976",PG&E,2018/11/09 00:00:00,4:49,39.823439,-121.838157,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"1979",PG&E,2017/09/11 00:00:00,8:50,36.9514617,-121.8420433,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"1981",PG&E,2015/09/10 00:00:00,5:42,37.460925,-121.84342,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"1983",PG&E,2017/09/04 00:00:00,3:29,39.83171,-121.84441,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"1986",PG&E,2017/05/25 00:00:00,15:05,36.52167991,-121.8472864,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2000",PG&E,2014/07/11 00:00:00,21:56,37.89526,-121.85704,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2009",PG&E,2014/06/28 00:00:00,23:04,37.899207,-121.860878,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2014",PG&E,2018/08/14 00:00:00,15:18,36.96557,-121.86813,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2025",PG&E,2018/07/14 00:00:00,21:38,36.33141,-121.88287,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2060",PG&E,2020/11/30 00:00:00,20:53,36.56469,-121.91182,Vegetation,< 0.25 Acres,Underground,Equipment - PG&E,False,2020
+"2073",PG&E,2016/07/16 00:00:00,0:58,36.43789999,-121.91983,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2074",PG&E,2016/08/30 00:00:00,16:01,36.5941317,-121.9212,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2080",PG&E,2020/10/28 00:00:00,20:17,36.503562,-121.931545,Vegetation,.26 - 9.99 Acres,Overhead,Contact from object,False,2020
+"2088",PG&E,2017/10/16 00:00:00,12:10,36.58307,-121.936756,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2106",PG&E,2017/07/11 00:00:00,22:12,37.0121733,-121.9497183,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2117",PG&E,2017/07/28 00:00:00,14:02,40.999733,-121.957931,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2161",PG&E,2014/07/12 00:00:00,19:52,40.777947,-121.99967,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2163",PG&E,2019/07/23 00:00:00,16:31,37.24474,-121.999852,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2175",PG&E,2014/09/15 00:00:00,19:22,37.24514999,-122.009609,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2205",PG&E,2019/10/30 00:00:00,13:32,38.479215,-122.03024,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"2215",PG&E,2019/10/04 00:00:00,19:07,40.496435,-122.044779,,.26 - 9.99 Acres,Overhead,Equipment - Overloaded,False,2019
+"2217",PG&E,2016/06/26 00:00:00,11:06,40.4832,-122.0466,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2242",PG&E,2017/10/16 00:00:00,12:20,37.7199783,-122.0687,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2289",PG&E,2016/07/08 00:00:00,10:49,38.33730999,-122.12112,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2290",PG&E,2018/11/09 00:00:00,8:59,37.280945,-122.121438,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2295",PG&E,2017/10/09 00:00:00,0:30,37.7504,-122.129,Vegetation,Unknown,Overhead,Equipment - PG&E,False,2017
+"2296",PG&E,2016/09/13 00:00:00,10:45,40.295793,-122.131815,Vegetation,300 - 999 Acres,Overhead,Contact From Object,True,2016
+"2305",PG&E,2019/09/11 00:00:00,18:56,37.993688,-122.136959,Bird Found,Other,Overhead,Contact - Animal - Bird,False,2019
+"2312",PG&E,2018/08/14 00:00:00,6:43,40.68604,-122.14102,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2323",PG&E,2016/08/07 00:00:00,14:20,37.23157,-122.15518,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2332",PG&E,2017/07/22 00:00:00,14:38,37.299447,-122.163055,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2342",PG&E,2015/09/28 00:00:00,9:42,37.96233,-122.176509,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2350",PG&E,2017/06/16 00:00:00,22:30,38.03734,-122.18465,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2354",PG&E,2019/09/12 00:00:00,14:25,37.3143717,-122.1864767,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2355",PG&E,2019/07/27 00:00:00,8:22,40.37889,-122.187276,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2359",PG&E,2019/10/31 00:00:00,16:09,38.3844917,-122.18928,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"2362",PG&E,2019/10/31 00:00:00,17:23,38.0458323,-122.1905111,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"2365",PG&E,2016/07/24 00:00:00,16:24,38.010471,-122.194144,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2372",PG&E,2020/11/07 00:00:00,12:15,37.958649,-122.197411,Vegetation,.26 - 9.99 Acres,Overhead,Equipment - PG&E,False,2020
+"2384",PG&E,2015/08/28 00:00:00,12:02,37.904709,-122.205841,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2015
+"2385",PG&E,2018/06/16 00:00:00,20:33,38.0493633,-122.2059983,Vegetation,< 0.25 Acres,Overhead,Wire-Wire Contact,False,2018
+"2386",PG&E,2019/05/17 00:00:00,18:54,38.0476309,-122.2063748,Bird Found,< 0.25 Acres,Overhead,Contact - Animal - Bird,False,2019
+"2391",PG&E,2017/07/18 00:00:00,21:40,38.003109,-122.209256,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2394",PG&E,2019/06/17 00:00:00,10:25,38.5109983,-122.213445,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2415",PG&E,2017/07/23 00:00:00,9:22,40.6420133,-122.2302483,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2421",PG&E,2015/04/11 00:00:00,17:16,40.5461873,-122.2342661,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2427",PG&E,2018/06/30 00:00:00,22:18,40.604302,-122.240029,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2432",PG&E,2015/04/30 00:00:00,0:26,37.24014,-122.2472,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2438",PG&E,2014/11/05 00:00:00,8:34,38.444471,-122.249299,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2439",PG&E,2016/08/21 00:00:00,13:02,38.4444517,-122.2495517,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2444",PG&E,2015/06/09 00:00:00,15:24,38.3651,-122.2541,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2015
+"2450",PG&E,2014/12/08 00:00:00,18:33,37.463067,-122.260094,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"2451",PG&E,2014/06/21 00:00:00,14:36,38.36443999,-122.262649,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2452",PG&E,2018/08/08 00:00:00,16:03,37.2973867,-122.2650667,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2459",PG&E,2018/05/19 00:00:00,19:44,40.26653,-122.27274,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2464",PG&E,2019/06/03 00:00:00,14:31,40.6822433,-122.2805867,,.26 - 9.99 Acres,Overhead,Equipment - Overloaded,False,2019
+"2466",PG&E,2016/06/24 00:00:00,14:38,40.22003,-122.2829867,Vegetation,< 0.25 Acres,Overhead,Unknown,False,2016
+"2472",PG&E,2015/03/21 00:00:00,10:46,40.16447999,-122.289389,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2475",PG&E,2017/09/06 00:00:00,20:08,37.292548,-122.29403,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2477",PG&E,2017/09/23 00:00:00,14:17,40.6509,-122.2974,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2478",PG&E,2017/08/19 00:00:00,21:16,40.57523,-122.29847,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2480",PG&E,2018/05/28 00:00:00,6:30,40.438186,-122.30009,Building,Structure Only,Overhead,Contact From Object,True,2018
+"2482",PG&E,2019/06/03 00:00:00,14:47,40.441915,-122.303585,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"2483",PG&E,2017/08/30 00:00:00,18:21,40.6243,-122.30386,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2485",PG&E,2019/07/16 00:00:00,17:31,40.169091,-122.305289,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2486",PG&E,2019/11/27 00:00:00,6:37,37.27172,-122.30779,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2488",PG&E,2019/08/03 00:00:00,13:30,39.088333,-122.309167,Vegetation,10 - 99 Acres,Overhead,Vegetation,False,2019
+"2493",PG&E,2018/06/05 00:00:00,10:13,40.6183083,-122.31731,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2498",PG&E,2014/07/03 00:00:00,20:28,40.658384,-122.321476,Vegetation,< 0.25 Acres,Padmounted,Equipment/ Facility Failure,False,2014
+"2501",PG&E,2017/09/20 00:00:00,2:06,37.259679,-122.322229,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2504",PG&E,2017/12/19 00:00:00,19:45,40.7271,-122.326286,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2512",PG&E,2018/08/17 00:00:00,9:38,40.29968,-122.33216,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2515",PG&E,2017/07/12 00:00:00,16:04,40.65308,-122.334288,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2516",PG&E,2017/07/24 00:00:00,14:01,37.263486,-122.33643,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2519",PG&E,2016/07/21 00:00:00,21:45,40.85655999,-122.338729,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2520",PG&E,2016/09/22 00:00:00,13:53,40.22401999,-122.34174,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2525",PG&E,2017/10/23 00:00:00,21:24,37.371331,-122.347991,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2529",PG&E,2016/06/19 00:00:00,17:19,38.45078,-122.354579,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2530",PG&E,2019/08/31 00:00:00,10:20,40.660998,-122.356007,Vehicle,< 0.25 Acres,Overbuild,Contact - 3rd Party,False,2019
+"2532",PG&E,2017/07/10 00:00:00,17:00,37.376769,-122.359671,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2534",PG&E,2018/10/26 00:00:00,20:55,40.152789,-122.363395,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2537",PG&E,2015/09/04 00:00:00,7:49,40.23182,-122.36428,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2542",PG&E,2016/01/23 00:00:00,15:41,39.948601,-122.372812,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2543",PG&E,2016/10/13 00:00:00,23:14,40.49015,-122.37286,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2545",PG&E,2017/10/08 00:00:00,0:00,38.313,-122.373,Vegetation,">5,000",Overhead,Vegetation,False,2017
+"2547",PG&E,2020/10/30 00:00:00,1:50,40.63776735,-122.3762111,Vegetation,< 0.25 Acres,Overhead,Equipment - PG&E,False,2020
+"2549",PG&E,2017/07/07 00:00:00,15:09,40.905355,-122.3806067,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2554",PG&E,2018/06/23 00:00:00,9:31,40.8631633,-122.3962383,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2556",PG&E,2017/07/04 00:00:00,20:16,40.42283,-122.3974767,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2563",PG&E,2017/07/08 00:00:00,18:49,40.29353632,-122.4089045,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2017
+"2564",PG&E,2015/06/12 00:00:00,13:07,40.407745,-122.4103667,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2565",PG&E,2019/06/26 00:00:00,13:14,40.018511,-122.410691,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2568",PG&E,2017/08/28 00:00:00,14:06,38.634015,-122.419447,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2569",PG&E,2019/11/27 00:00:00,15:39,40.657925,-122.4211,,< 0.25 Acres,Overhead,Other Fire: Non-PG&E related,False,2019
+"2570",PG&E,2016/08/12 00:00:00,10:08,38.87507,-122.42228,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2016
+"2573",PG&E,2018/09/02 00:00:00,15:36,37.471398,-122.424761,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2574",PG&E,2015/07/12 00:00:00,17:04,37.4713,-122.42559,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2578",PG&E,2017/06/15 00:00:00,2:58,40.2989933,-122.431845,Vegetation,< 0.25 Acres,Overhead,Vandalism/Theft,False,2017
+"2580",PG&E,2016/02/05 00:00:00,20:50,40.01563999,-122.4333,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2584",PG&E,2018/10/14 00:00:00,11:40,40.35977079,-122.4388456,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2588",PG&E,2018/08/07 00:00:00,15:46,40.44652,-122.445975,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2592",PG&E,2016/10/19 00:00:00,10:42,38.50979,-122.44996,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2593",PG&E,2020/11/30 00:00:00,20:47,40.3831667,-122.4516583,Vegetation,,Overhead,Equipment - PG&E,False,2020
+"2609",PG&E,2014/07/02 00:00:00,14:29,40.47366,-122.47373,Vegetation,< 0.25 Acres,Overhead,Vandalism/Theft,False,2014
+"2617",PG&E,2018/08/31 00:00:00,13:02,40.4775,-122.4847,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2618",PG&E,2017/06/23 00:00:00,13:00,39.305104,-122.486184,Vegetation,10 - 99 Acres,Overhead,Vandalism/Theft,False,2017
+"2639",PG&E,2017/07/25 00:00:00,15:51,38.37795,-122.538775,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2643",PG&E,2017/08/29 00:00:00,15:54,38.3019567,-122.5431417,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2644",PG&E,2015/07/01 00:00:00,9:17,38.57154,-122.54428,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2646",PG&E,2016/06/21 00:00:00,16:53,38.42327999,-122.54477,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2649",PG&E,2018/07/14 00:00:00,11:34,38.402648,-122.548911,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2650",PG&E,2014/06/21 00:00:00,6:49,38.3753,-122.5494,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2652",PG&E,2019/03/13 00:00:00,16:08,39.8830783,-122.5497584,Bird Found,< 0.25 Acres,Overhead,Contact - Animal - Bird,False,2019
+"2657",PG&E,2019/05/08 00:00:00,10:23,39.385076,-122.557015,,< 0.25 Acres,Overhead,Equipment - PG&E,False,2019
+"2660",PG&E,2014/10/28 00:00:00,12:01,38.81685,-122.56607,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2661",PG&E,2019/07/15 00:00:00,7:51,38.32657,-122.56803,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2662",PG&E,2016/06/30 00:00:00,17:14,40.0353,-122.56939,Vegetation,300 - 999 Acres,Overhead,Contact From Object,True,2016
+"2672",PG&E,2015/04/04 00:00:00,16:49,38.88244999,-122.59135,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2677",PG&E,2016/10/08 00:00:00,16:31,39.0099033,-122.6144817,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2679",PG&E,2017/07/30 00:00:00,9:46,38.9131817,-122.617875,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2683",PG&E,2018/03/26 00:00:00,17:06,38.73038,-122.62155,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2685",PG&E,2014/10/10 00:00:00,14:41,38.1721017,-122.6282,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"2688",PG&E,2019/09/15 00:00:00,12:58,38.105675,-122.64555,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"2698",PG&E,2018/09/21 00:00:00,21:10,39.02733,-122.66269,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2699",PG&E,2018/06/13 00:00:00,22:40,38.49014,-122.66614,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2701",PG&E,2017/08/08 00:00:00,4:10,38.49485084,-122.6684874,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2702",PG&E,2014/11/08 00:00:00,15:02,38.182087,-122.669294,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"2711",PG&E,2016/07/15 00:00:00,14:26,38.13657999,-122.709189,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2718",PG&E,2018/07/31 00:00:00,7:57,38.95586,-122.72744,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2722",PG&E,2014/06/12 00:00:00,6:30,38.04374999,-122.74624,Vegetation,10 - 99 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"2724",PG&E,2015/03/04 00:00:00,18:44,38.99945,-122.75451,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2728",PG&E,2016/07/27 00:00:00,17:05,38.539161,-122.765588,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2732",PG&E,2017/10/21 00:00:00,15:08,39.064001,-122.776453,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2734",PG&E,2017/06/16 00:00:00,19:14,38.344288,-122.78122,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2736",PG&E,2018/10/08 00:00:00,11:03,38.26209,-122.7881,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2749",PG&E,2019/05/10 00:00:00,14:52,40.703996,-122.831432,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2751",PG&E,2015/08/29 00:00:00,3:30,38.63019,-122.8327,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2755",PG&E,2018/09/09 00:00:00,4:25,38.65336,-122.85384,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2758",PG&E,2014/11/17 00:00:00,17:15,38.04444,-122.86065,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2014
+"2759",PG&E,2017/05/14 00:00:00,11:59,38.0798,-122.8665,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2762",PG&E,2015/09/11 00:00:00,8:15,38.10938,-122.86999,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2767",PG&E,2018/07/14 00:00:00,12:40,38.57926,-122.87798,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2768",PG&E,2019/06/17 00:00:00,18:19,38.0984,-122.87861,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2769",PG&E,2017/06/30 00:00:00,23:54,38.57941,-122.8834883,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2780",PG&E,2019/06/10 00:00:00,16:18,38.11067999,-122.902509,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"2782",PG&E,2015/09/19 00:00:00,9:51,38.4755,-122.90691,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2785",PG&E,2020/10/26 00:00:00,14:33,38.43356358,-122.9082086,Vegetation,< 0.25 Acres,Overhead,Equipment - PG&E,False,2020
+"2787",PG&E,2017/10/31 00:00:00,21:02,39.111887,-122.916326,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2788",PG&E,2015/10/09 00:00:00,6:32,38.36399,-122.917289,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2791",PG&E,2017/07/01 00:00:00,3:12,38.19516976,-122.9197113,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2806",PG&E,2017/05/05 00:00:00,15:52,40.37758,-123.00187,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2811",PG&E,2018/11/01 00:00:00,20:45,38.372,-123.0507,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2813",PG&E,2017/08/02 00:00:00,9:42,39.227442,-123.108108,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2814",PG&E,2016/04/03 00:00:00,12:01,38.680439,-123.124958,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2816",PG&E,2014/07/10 00:00:00,14:37,39.23185,-123.13989,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2818",PG&E,2019/05/17 00:00:00,15:12,38.479672,-123.148577,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2820",PG&E,2016/05/18 00:00:00,18:24,39.73815,-123.15874,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2825",PG&E,2015/10/16 00:00:00,9:43,39.18704,-123.20151,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2829",PG&E,2017/08/05 00:00:00,18:08,39.09683,-123.21466,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2834",PG&E,2014/07/06 00:00:00,19:19,38.7489,-123.28498,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"2835",PG&E,2015/08/19 00:00:00,6:20,39.28313,-123.29312,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2015
+"2836",PG&E,2017/10/10 00:00:00,13:36,38.9309817,-123.3023483,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2837",PG&E,2017/06/15 00:00:00,15:01,39.3912683,-123.3054083,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2838",PG&E,2015/09/24 00:00:00,4:30,38.6769,-123.31398,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2015
+"2841",PG&E,2018/05/09 00:00:00,14:00,38.590814,-123.34232,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2842",PG&E,2019/06/07 00:00:00,9:58,38.72846,-123.3527633,Vegetation,.26 - 9.99 Acres,Overhead,Vegetation,False,2019
+"2843",PG&E,2017/10/28 00:00:00,15:26,39.451623,-123.383814,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2844",PG&E,2018/08/31 00:00:00,18:04,39.5785,-123.384195,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2845",PG&E,2017/06/25 00:00:00,0:23,39.40434,-123.38687,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2846",PG&E,2017/08/02 00:00:00,5:54,40.7985567,-123.3961383,Vegetation,10 - 99 Acres,Overhead,Contact From Object,True,2017
+"2847",PG&E,2015/06/06 00:00:00,15:38,39.04088999,-123.401889,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2848",PG&E,2018/07/04 00:00:00,15:26,39.55378,-123.425485,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2849",PG&E,2018/07/24 00:00:00,13:47,39.060574,-123.445596,Vegetation,.26 - 9.99 Acres,Overhead,Unknown,False,2018
+"2850",PG&E,2016/05/20 00:00:00,15:01,39.05588853,-123.4581273,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2852",PG&E,2016/07/28 00:00:00,13:19,39.7126733,-123.4973117,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2853",PG&E,2018/07/29 00:00:00,11:39,39.096845,-123.5017933,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2854",PG&E,2017/09/05 00:00:00,6:58,39.67273,-123.51279,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2855",PG&E,2017/05/09 00:00:00,18:26,40.86892,-123.51559,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2856",PG&E,2017/07/23 00:00:00,18:25,39.67233,-123.5336,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2857",PG&E,2018/07/19 00:00:00,5:29,40.1918383,-123.537335,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2858",PG&E,2015/08/17 00:00:00,17:33,38.83366,-123.55335,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2860",PG&E,2019/07/25 00:00:00,7:39,39.1735,-123.57631,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2861",PG&E,2016/05/19 00:00:00,18:54,38.81682999,-123.584289,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2862",PG&E,2018/08/28 00:00:00,12:50,40.21391,-123.5966,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2018
+"2863",PG&E,2015/06/08 00:00:00,16:15,39.82356,-123.60931,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2864",PG&E,2015/07/18 00:00:00,17:00,38.838259,-123.629678,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2867",PG&E,2014/07/28 00:00:00,19:05,39.66819,-123.64417,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2868",PG&E,2015/02/07 00:00:00,18:38,40.46741,-123.65446,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2870",PG&E,2020/10/22 00:00:00,21:43,38.88091156,-123.6622075,Other,< 0.25 Acres,Overhead,Equipment - PG&E,False,2020
+"2872",PG&E,2016/06/20 00:00:00,16:45,41.06971,-123.678928,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2874",PG&E,2019/08/25 00:00:00,13:13,41.093455,-123.694231,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2876",PG&E,2016/06/05 00:00:00,15:44,40.344089,-123.709959,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2877",PG&E,2018/06/27 00:00:00,21:19,39.871372,-123.711862,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2880",PG&E,2016/08/19 00:00:00,16:23,39.22350999,-123.755,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2882",PG&E,2016/09/12 00:00:00,15:08,39.52556,-123.7655,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2016
+"2883",PG&E,2016/08/17 00:00:00,12:23,41.2494633,-123.7670733,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2884",PG&E,2015/10/30 00:00:00,4:29,39.505944,-123.767187,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2886",PG&E,2014/08/20 00:00:00,16:07,40.193799,-123.767755,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2014
+"2887",PG&E,2016/04/21 00:00:00,9:25,39.29298,-123.769009,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2016
+"2889",PG&E,2016/06/19 00:00:00,12:07,39.38112999,-123.7737,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2891",PG&E,2016/08/05 00:00:00,14:46,40.47974999,-123.7803,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2892",PG&E,2016/11/20 00:00:00,11:04,39.6326223,-123.7822801,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2894",PG&E,2018/09/16 00:00:00,10:22,39.462724,-123.783742,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2895",PG&E,2015/06/04 00:00:00,13:17,39.269385,-123.784108,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2896",PG&E,2018/07/23 00:00:00,15:11,39.49108,-123.78438,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2897",PG&E,2016/09/20 00:00:00,8:25,40.00441999,-123.78712,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2898",PG&E,2016/06/10 00:00:00,15:51,39.9933533,-123.7882867,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2899",PG&E,2018/07/13 00:00:00,10:59,39.48359,-123.79238,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2900",PG&E,2015/09/10 00:00:00,18:39,40.756916,-123.795769,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2015
+"2901",PG&E,2018/06/27 00:00:00,18:46,40.21795,-123.798925,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2902",PG&E,2017/08/14 00:00:00,6:14,40.116422,-123.806447,Vegetation,.26 - 9.99 Acres,Overhead,Contact From Object,True,2017
+"2904",PG&E,2017/09/14 00:00:00,14:06,40.29421,-123.817356,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2905",PG&E,2017/07/10 00:00:00,12:32,40.260278,-123.825278,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2906",PG&E,2014/10/25 00:00:00,3:04,40.29567,-123.8269867,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2014
+"2907",PG&E,2017/07/12 00:00:00,20:21,40.080833,-123.833889,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2908",PG&E,2015/08/12 00:00:00,17:38,40.21534,-123.86814,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2909",PG&E,2017/08/28 00:00:00,14:59,40.285278,-123.872778,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2910",PG&E,2019/08/16 00:00:00,8:19,40.1234933,-123.8757567,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2911",PG&E,2017/07/16 00:00:00,10:39,40.341389,-123.878611,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2912",PG&E,2016/08/16 00:00:00,13:18,40.34169,-123.88029,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2913",PG&E,2018/05/11 00:00:00,15:51,40.33848,-123.91367,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2914",PG&E,2019/11/21 00:00:00,16:26,40.3231067,-123.92025,Vegetation,< 0.25 Acres,Overhead,Vegetation,False,2019
+"2915",PG&E,2015/06/24 00:00:00,19:05,39.99207,-123.92584,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2015
+"2917",PG&E,2017/09/27 00:00:00,19:06,40.7592,-123.995,Vegetation,< 0.25 Acres,Overhead,Equipment/ Facility Failure,False,2017
+"2918",PG&E,2018/06/14 00:00:00,16:12,40.44189412,-124.0197304,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2919",PG&E,2018/08/08 00:00:00,10:03,40.793333,-124.024166,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2920",PG&E,2017/05/06 00:00:00,11:18,40.79512,-124.02902,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2927",PG&E,2017/06/20 00:00:00,11:51,40.315556,-124.061111,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2017
+"2935",PG&E,2016/01/21 00:00:00,21:32,40.552999,-124.111582,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2936",PG&E,2018/10/20 00:00:00,14:31,40.521797,-124.113743,Vegetation,.26 - 9.99 Acres,Overhead,Equipment/ Facility Failure,False,2018
+"2938",PG&E,2016/04/13 00:00:00,19:28,40.49535,-124.121912,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2016
+"2944",PG&E,2018/10/16 00:00:00,10:44,40.50968,-124.162393,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2945",PG&E,2020/10/26 00:00:00,12:55,40.51851,-124.16308,Vegetation,< 0.25 Acres,Overhead,Equipment - PG&E,False,2020
+"2950",PG&E,2018/07/01 00:00:00,0:23,40.269668,-124.238616,Vegetation,< 0.25 Acres,Overhead,Contact From Object,True,2018
+"2953",PG&E,2018/11/21 00:00:00,2:16,40.438267,-124.384703,Vegetation,< 0.25 Acres,Overhead,Vandalism/Theft,False,2018

@@ -1,0 +1,98 @@
+html, body {
+    margin: 0;
+    background: whitesmoke;
+    font-family: 'Merriweather';
+    font-size: 11pt;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+.topnav a {
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+.headline { 
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+.byline { 
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.byline a {
+    color: black;
+}
+
+.date {
+    color: gray;
+    font-weight: bold;
+}
+
+.subhead {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+.text-container {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.photo-caption {
+    text-align: right;
+    font-size: 10pt;
+    font-style: italic;
+    color: gray;
+    padding-bottom: 0.5em;
+}
+
+img {
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+video {
+    max-width: 760px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.header-image {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.viz-container {
+    max-width: 100%;
+    max-height: 500px;
+    padding-bottom: 1em;
+}
+
+.viz-caption {
+    font-size: 10pt;
+    color: grey;
+    font-style: italic;
+    text-align: left;
+    max-width: inherit;
+    padding: 1em;
+}
+
+.footnote {
+    padding-top: 1em;
+    font-style: italic;
+    color: gray;
+}
