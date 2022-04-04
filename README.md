@@ -4,4 +4,4 @@
 
 This project uses **Scrollama, d3 and ai2html** to make a map created in **QGIS** sourced from data kept in **PDFs** interactive when a user scrolls on both **mobile** and **desktop**. 
 
-
+(More explanation coming soon)
