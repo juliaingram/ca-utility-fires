@@ -22,7 +22,7 @@ I created the map in QGIS, creating multiple layers for each iteration of the vi
 
 ## Skills & Growth
 
-This project is my first time using d3 and building an webpage that responds to the user scrolling. It is also the first visualization where I designed both a mobile and desktop version. The visualization was designed first for mobile, keeping in mind how much news readers consume from their phone, and that it's easier to make things bigger than smaller. 
+This project is my first time using D3 and building an webpage that responds to the user scrolling. It is also the first visualization where I designed both a mobile and desktop version. The visualization was designed first for mobile, keeping in mind how much news readers consume from their phone, and that it's easier to make things bigger than smaller. 
 
 ## Further Developments
 
