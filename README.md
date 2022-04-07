@@ -14,11 +14,11 @@ The high and extreme fire risk shapefiles were also sourced from [CPUC](https://
 
 ## Data Extraction
 
-Most of the CPUC utility fire data is stored as PDFs. I used Camelot to extract the data and pandas to clean and standardize it. 
+Most of the CPUC utility fire data is stored as PDFs. I used **Camelot** to extract the data and pandas to clean and standardize it. I also used Python and pandas to pull out statistics on the data that were not already available in the audit report, such as how much more likely a fire is to be greater than a quarter-acre if it occurs in a high or extreme risk fire zone (1.67 times more likely). 
 
 ## Mapping and Interactivity
 
-I created the map in QGIS, creating multiple layers for each iteration of the visual to be displayed when the user scrolls. I exported it from QGIS as an SVG file, then ran the ai2html script on in Adobe Illustrator to include in the HTML for the article webpage. The webpage was built starting from a template provided to our class by our instructor Jonathan Soma, adapted for my text and visualization. The template uses the package Scrollama, and I used D3 to determine when to display each layer of the map on each user scroll. 
+I created the map in **QGIS**, creating multiple layers for each iteration of the visual to be displayed when the user scrolls. I exported it from QGIS as an SVG file, then ran the **ai2html** script on in Adobe Illustrator to include in the HTML for the article webpage. The webpage was built starting from a template provided to our class by our instructor Jonathan Soma, adapted for my text and visualization. The template uses the package Scrollama, and I used **D3** to determine when to display each layer of the map on each user scroll. 
 
 ## Skills & Growth
 
