@@ -23,7 +23,3 @@ I created the map in **QGIS**, creating multiple layers for each iteration of th
 ## Skills & Growth
 
 This project is my first time using D3 and building an webpage that responds to the user scrolling. It is also the first visualization where I designed both a mobile and desktop version. The visualization was designed first for mobile, keeping in mind how much news readers consume from their phone, and that it's easier to make things bigger than smaller. 
-
-## Further Developments
-
-Since I published the story on Monday, April 3, 2021 data has been released. 2021 Data was not included in the audit, but would be great to incorporate in my visualizations and data findings. I also plan to edit the map to increase clarity, given the amount of data displayed, by shrinking the size of the dots that represent fires and being more specific abotu which fires I display on each iteration. 
